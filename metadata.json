@@ -1,0 +1,6 @@
+{
+  "name": "DELTA Design Gráfico",
+  "description": "DELTA Design Gráfico: identidades que transformam ideias em marcas. Branding, design gráfico, motion design e edição de vídeo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
